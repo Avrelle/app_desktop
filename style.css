@@ -1,3 +1,6 @@
+body{
+ background-color: #212529
+}
 h3{
  font-family: Inknut Antiqua;
 }
@@ -7,6 +10,11 @@ h3{
     width: 80px;
     border-radius: 110%;
     left: 200px;
+}
+.logoDesc{
+    position: absolute;
+    width: 80px;
+    border-radius: 110%;
 }
 
 #sumIcon{
@@ -30,5 +38,22 @@ h3{
     position: relative;
     left: 1.5em;
     font-family: Inknut Antiqua;
+}
+
+.descImg{
+width: 100%;
+}
+#nameChamp{
+    font-family: Inknut Antiqua;
+    position: relative;
+    top: 11em;
+    left: 17em;
+    font-weight: bolder;
+}
+#desc{
+    font-family: Inknut Antiqua;
+    top: 28em;
+    left: 1em;
+    font-size: 20px;
 }
 
