@@ -1,5 +1,5 @@
 //clé API
-const riotApiKey = ('RGAPI-ae3df047-028c-4fe3-8305-d34d78274dc6');
+const riotApiKey = ('');
 
 //variables html
 let idSum = document.getElementById("idSum");
